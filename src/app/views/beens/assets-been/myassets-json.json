@@ -1,0 +1,70 @@
+﻿[
+	{
+		"asset_id" : 1,
+		"asset_type" : "cash",
+		"company" : "אלטשולר שחם",
+		"current_value" : 455555,
+		"expected_income" : 64767,
+		"invest_path" : "איגרות חוב",
+		"invest_value" : 0,
+		"notes" : "dgfdfg",
+		"percentage" : 48
+	},
+	{
+		"asset_id" : 3,
+		"asset_type" : "Social loans",
+		"company" : "הפניקס",
+		"current_value" : 100000,
+		"expected_income" : 54464,
+		"invest_path" : "קרנות נאמנות",
+		"invest_value" : 0,
+		"notes" : "fgfdfg",
+		"percentage" : 10
+	},
+	{
+		"asset_id" : 4,
+		"asset_type" : "Capital Market",
+		"company" : "מנורה מבטחים",
+		"current_value" : 80,
+		"expected_income" : 100,
+		"invest_path" : "איגרות חוב",
+		"invest_value" : 0,
+		"notes" : "test",
+		"percentage" : 0
+	},
+	{
+		"asset_id" : 5,
+		"asset_type" : "Real Estate",
+		"company" : "אקסלנס",
+		"current_value" : 80,
+		"expected_income" : 500,
+		"invest_path" : "תעודות סל",
+		"invest_value" : 0,
+		"notes" : "test2",
+		"percentage" : 0
+	},
+	{
+		"asset_id" : 6,
+		"asset_type" : "Social loans2",
+		"company" : "מנורה מבטחים",
+		"current_value" : 70,
+		"expected_income" : 500,
+		"invest_path" : "תעודות סל",
+		"invest_value" : 0,
+		"notes" : "fdfgdffg",
+		"percentage" : 0
+	},
+	{
+		"asset_id" : 7,
+		"asset_type" : "Real Estate2",
+		"company" : "הפניקס",
+		"current_value" : 400000,
+		"expected_income" : 2500,
+		"invest_path" : "מזומן",
+		"invest_value" : 5000,
+		"notes" : "בדיקה",
+		"percentage" : 42
+	}
+]
+
+
